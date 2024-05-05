@@ -5,7 +5,6 @@ int main(){
     setlocale(LC_ALL, "Portuguese");
     printf("---------------------- Início do Programa ------ \n");
 
-
     int *p, *p1, x = 10;
     float y = 20.0;
 
@@ -21,3 +20,4 @@ int main(){
     printf("Conteudo apontado por: %f \n", *((float*)p)); // imprime certo
 return 0 ;
 }
+// coments
