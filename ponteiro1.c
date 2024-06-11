@@ -4,7 +4,6 @@
 int main(){
     setlocale(LC_ALL, "Portuguese");
     printf("---------------------- Início do Programa ------ \n");
-
     //Declara uma variável int contendo o valor 10
     int c = 10;
     //Declara um ponteiro  para int
