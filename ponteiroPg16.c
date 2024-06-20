@@ -20,4 +20,5 @@ int main(){
     printf("Conteudo apontado por: %f \n", *((float*)p)); // imprime certo
 return 0 ;
 }
+
 // coments
