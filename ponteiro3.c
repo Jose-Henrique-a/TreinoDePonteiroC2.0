@@ -37,6 +37,5 @@ int main(){
     printf("Conteúdo de x: %d\n", x);   // 30
     printf("Conteúdo de *ptr: %d\n", *ptr);   // 30
     // comentário
-   
 return 0 ;
 }
